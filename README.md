@@ -34,7 +34,6 @@
 
 ### 📫 How to Reach Me
 - Discord: `crucess`
-- Email: *(optional – let me know if you want to include one)*
 
 ---
 
