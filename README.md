@@ -1,47 +1,61 @@
-<h1 align="center">Hey there! 👋 I'm @crucess</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20@crucess%20GitHub!&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<h1 align="center">Yo! 👋 I'm @crucess</h1>
 
 <p align="center">
-  💻 Discord Bot Developer | 🧠 JavaScript Enthusiast | 🚀 Automation Addict
+  💻 Discord Bot Developer | ⚙️ JavaScript Wizard | 🎮 Gaming Community Tools
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🤖 I specialize in building **Discord bots** using **JavaScript**.
-- ⚙️ Passionate about creating tools that automate and enhance server management.
-- 🧠 Constantly learning to make my bots smarter, faster, and more efficient.
+### 👾 About Me
+- 💬 I craft **custom Discord bots** with **JavaScript + Node.js**.
+- 🛠️ I automate **servers**, build **giveaway systems**, **ticket tools**, and more.
+- 🌍 Focused on making server management smarter and cooler.
+- ☕ Caffeine-fueled, always learning, always building.
 
 ---
 
-### ⚒️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+### ⚔️ My Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,mysql,json,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🚀 What I Work On
-- 🛠️ Custom bots for managing Discord communities
-- 🎉 Giveaway, ticket, and verification systems
-- 🛒 Order automation and admin panels
-- 🌐 Database + API integrations
+### 🚀 Projects I Love Building
+- 🤖 Powerful moderation and utility bots  
+- 🎉 Interactive giveaway systems with real-time feedback  
+- 📦 Order and inventory systems with dashboard-style panels  
+- 📡 Bots connected to APIs & databases for real-time updates  
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Let's Connect
 - Discord: `crucess`
+- Email: *(optional)*
 
 ---
 
-### ⭐ Fun Fact
-> “Great bots aren't born. They're built — with passion, caffeine, and thousands of lines of code.”
+### 🧠 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=crucess&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=crucess&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
+
+### 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crucess&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+> 🎯 *"Bots aren’t just code — they’re crafted tools that breathe life into digital communities."*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,mysql,git,github,vscode" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 </p>
