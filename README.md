@@ -35,7 +35,6 @@
 
 ### 📫 Let's Connect
 - Discord: `crucess`
-- Email: *(optional)*
 
 ---
 
