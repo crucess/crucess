@@ -1,19 +1,19 @@
 <h1 align="center">Hey there! 👋 I'm @crucess</h1>
 
 <p align="center">
-  💻 Discord Bot Developer | 🧠 JavaScript Enthusiast | 🚀 Automation Lover
+  💻 Discord Bot Developer | 🧠 JavaScript Enthusiast | 🚀 Automation Addict
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
-- 🎯 Me especializo en el desarrollo de **bots de Discord** usando **JavaScript**.
-- 🛠️ Me encanta crear herramientas útiles y automatizaciones que mejoran comunidades y servidores.
-- 🧠 Siempre aprendiendo nuevas formas de hacer que mis bots sean más inteligentes, rápidos y potentes.
+### 👨‍💻 About Me
+- 🤖 I specialize in building **Discord bots** using **JavaScript**.
+- ⚙️ Passionate about creating tools that automate and enhance server management.
+- 🧠 Constantly learning to make my bots smarter, faster, and more efficient.
 
 ---
 
-### ⚒️ Tecnologías que uso
+### ⚒️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -24,21 +24,22 @@
 
 ---
 
-### 🚀 Proyectos en los que trabajo
-- 🤖 Bots personalizados para gestión de comunidades
-- 🎉 Sistemas de sorteos, tickets y verificación
-- 🛒 Automatización de pedidos y paneles administrativos
-- 🌐 Integración con bases de datos y APIs externas
+### 🚀 What I Work On
+- 🛠️ Custom bots for managing Discord communities
+- 🎉 Giveaway, ticket, and verification systems
+- 🛒 Order automation and admin panels
+- 🌐 Database + API integrations
 
 ---
 
-### 📬 ¿Cómo contactarme?
+### 📫 How to Reach Me
 - Discord: `crucess`
+- Email: *(optional – let me know if you want to include one)*
 
 ---
 
-### ⭐ Un dato extra
-> “Los buenos bots no se crean solos. Se construyen con pasión, café y muchas líneas de código.”
+### ⭐ Fun Fact
+> “Great bots aren't born. They're built — with passion, caffeine, and thousands of lines of code.”
 
 ---
 
