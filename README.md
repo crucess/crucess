@@ -1,44 +1,57 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20@crucess%20GitHub!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">Yo! 👋 I'm @crucess</h1>
+<h1 align="center">Hey! I'm @crucess 👋</h1>
 
 <p align="center">
-  💻 Discord Bot Developer | ⚙️ JavaScript Wizard | 🎮 Gaming Community Tools
+  💻 Discord Bot Developer | ☕ Full Stack Student | 🎮 Community Tools Enthusiast
 </p>
 
 ---
 
-### 👾 About Me
-- 💬 I craft **custom Discord bots** with **JavaScript + Node.js**.
-- 🛠️ I automate **servers**, build **giveaway systems**, **ticket tools**, and more.
-- 🌍 Focused on making server management smarter and cooler.
-- ☕ Caffeine-fueled, always learning, always building.
+### 👨‍💻 About Me
+
+- I've been building **Discord bots** for almost 5 years now, mainly using **JavaScript**, **Node.js**, and **MySQL**.
+- I'm currently studying **Web Application Development** and diving deeper into full-stack technologies.
+- I enjoy building tools that make server management easier and more dynamic.
+- Outside of code, I'm always learning something new — usually with a cup of coffee by my side.
 
 ---
 
-### ⚔️ My Arsenal
+### 🔧 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,discord,mysql,json,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,mysql,html,css,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Projects I Love Building
-- 🤖 Powerful moderation and utility bots  
-- 🎉 Interactive giveaway systems with real-time feedback  
-- 📦 Order and inventory systems with dashboard-style panels  
-- 📡 Bots connected to APIs & databases for real-time updates  
+### 🚀 Projects I Enjoy Building
+
+- 🤖 Smart and customizable moderation bots  
+- 🎉 Interactive giveaway and ticket systems  
+- 📦 Order/inventory bots with dashboards and real-time updates  
+- 🔌 Bots integrated with APIs and databases for dynamic content  
 
 ---
 
-### 📫 Let's Connect
+### 📚 Currently Learning
+
+- Backend development with Java & Spring  
+- Frontend with modern HTML5/CSS3 practices  
+- Building full-stack web apps that connect seamlessly with bots
+
+---
+
+### 📬 Get in Touch
+
 - Discord: `crucess`
 
 ---
 
-### 🧠 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=crucess&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=crucess&theme=tokyonight&hide_border=false" />
@@ -46,14 +59,15 @@
 
 ---
 
-### 👀 Profile Visitors
+### 👁️ Profile Views
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crucess&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-> 🎯 *"Bots aren’t just code — they’re crafted tools that breathe life into digital communities."*
+> ⚡ *Building bots that don't just work — they **help**.*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
